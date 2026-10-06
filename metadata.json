@@ -1,0 +1,6 @@
+{
+  "name": "Red de Sucursales & Boutiques Retail",
+  "description": "Catálogo arquitectónico y red de boutiques retail exclusivas con geolocalización, horarios en vivo y servicios concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
